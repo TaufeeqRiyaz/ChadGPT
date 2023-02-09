@@ -1,4 +1,5 @@
 # ChadGPT
+![image](https://user-images.githubusercontent.com/74425589/217920391-d5cf9e89-8026-4d78-a0fa-770923195466.png)
 
 ChadGPT is an unleashed version of the OpenAI's language model, ChatGPT, that is not limited by OpenAI's content policy. With ChadGPT, you can experience the full power of AI language generation without any restrictions.
 
