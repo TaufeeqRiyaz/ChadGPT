@@ -28,3 +28,9 @@ ChadGPT is not endorsed by OpenAI in any way and this might probably get fixed i
 
 ## Screenshots -
 
+![image](https://user-images.githubusercontent.com/74425589/217919702-db24ece9-03ad-41a5-8bf6-a6a8e3df40e0.png)
+![image](https://user-images.githubusercontent.com/74425589/217919748-4de198a9-dc17-4219-8aeb-880de4ae3861.png)
+![image](https://user-images.githubusercontent.com/74425589/217919778-157734ee-1c1c-4d89-9d2c-77c73ec8dfd1.png)
+![image](https://user-images.githubusercontent.com/74425589/217919855-41b839f2-2b63-45ec-87c0-b1a2e4295383.png)
+
+
